@@ -129,4 +129,14 @@ export default {
   header {
       margin-top: 50px;
   }
+  .masthead{
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  footer {
+    text-align: center;
+  }
 </style>

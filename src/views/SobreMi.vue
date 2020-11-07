@@ -72,7 +72,18 @@ export default {
 </script>
 
 <style scoped>
-header {
-    margin-top: 50px;
-}
+  header {
+      margin-top: 50px;
+  }
+  .masthead{
+    height: 400px;
+    text-align: center;
+    padding-top: 250px;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  footer {
+    text-align: center;
+  }
 </style>

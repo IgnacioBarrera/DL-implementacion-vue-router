@@ -26,7 +26,17 @@ export default {
 </script>
 
 <style scoped>
-header {
-    margin-top: 50px;
-}
+  header {
+      margin-top: 50px;
+  }
+  .masthead{
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  footer {
+    text-align: center;
+  }
 </style>

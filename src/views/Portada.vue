@@ -53,4 +53,15 @@ export default {
     header {
         margin-top: 50px;
     }
+    .masthead {
+        margin-top: 50px;
+        height: 600px;
+        color: black;
+        text-align: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    footer {
+        text-align: center;
+    }
 </style>
